@@ -1,5 +1,11 @@
 # test-table-fill-form
 
+## Version on which the project was created
+```
+Node: v18.19.1
+@vue/cli: 5.0.8
+```
+
 ## Project setup
 ```
 npm install

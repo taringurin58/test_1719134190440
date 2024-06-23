@@ -1,0 +1,52 @@
+[
+    {
+        "Material": "MAT0001",
+        "ProductCode": "PC000001",
+        "Description": "Product 1 is something that can be used for something."
+    },
+    {
+        "Material": "MAT0002",
+        "ProductCode": "PC000002",
+        "Description": "Product 2 is something that can eat"
+    },
+    {
+        "Material": "MAT0003",
+        "ProductCode": "PC000003",
+        "Description": "Product 3 is something is soft and fluffy."
+    },
+    {
+        "Material": "MAT0004",
+        "ProductCode": "PC000004",
+        "Description": "Product 4 is something is hard and rough."
+    },
+    {
+        "Material": "MAT0005",
+        "ProductCode": "PC000005",
+        "Description": "Product 5 is something is cold and wet."
+    },
+    {
+        "Material": "MAT0006",
+        "ProductCode": "PC000006",
+        "Description": "Product 6 is something is hot and dry."
+    },
+    {
+        "Material": "MAT0007",
+        "ProductCode": "PC000007",
+        "Description": "Product 7 is something is sweet and sour."
+    },
+    {
+        "Material": "MAT0008",
+        "ProductCode": "PC000008",
+        "Description": "Product 8 is something is bitter and salty."
+    },
+    {
+        "Material": "MAT0009",
+        "ProductCode": "PC000009",
+        "Description": "Product 9 is something is spicy and tangy."
+    },
+    {
+        "Material": "MAT0010",
+        "ProductCode": "PC000010",
+        "Description": "Product 10 is something is smooth and silky."
+    }
+]

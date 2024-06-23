@@ -1,0 +1,44 @@
+[
+    {
+        "Material": "MAT0001",
+        "ProductCode": "PC000001",
+        "Location": "A1",
+        "QTY": 100
+    },
+    {
+        "Material": "MAT0001",
+        "ProductCode": "PC000001",
+        "Location": "A2",
+        "QTY": 100
+    },
+    {
+        "Material": "MAT0001",
+        "ProductCode": "PC000001",
+        "Location": "A4",
+        "QTY": 100
+    },
+    {
+        "Material": "MAT0002",
+        "ProductCode": "PC000002",
+        "Location": "A1",
+        "QTY": 100
+    },
+    {
+        "Material": "MAT0002",
+        "ProductCode": "PC000002",
+        "Location": "A3",
+        "QTY": 100
+    },
+    {
+        "Material": "MAT0003",
+        "ProductCode": "PC000003",
+        "Location": "A1",
+        "QTY": 100
+    },
+    {
+        "Material": "MAT0004",
+        "ProductCode": "PC000004",
+        "Location": "A2",
+        "QTY": 100
+    }
+]
